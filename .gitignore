@@ -1,2 +1,8 @@
 Ludumdaree35/Library/
 Ludumdaree35/Temp/
+Ludumdaree35/bin/
+Ludumdaree35/Bin/
+*.suo
+*.pdb
+*.csproj
+*.sln
